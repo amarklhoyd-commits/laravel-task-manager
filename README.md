@@ -20,4 +20,4 @@ Database Used: SQLite
 
 ## Screeshot
 
-![Laravel Task Manager Screenshot](TaskManager/screenshots/task-manager.png)
+![Laravel Task Manager Screenshot](TaskManager/screenshots/Screenshot%202026-09-29%20203532.png)
