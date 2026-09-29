@@ -17,3 +17,7 @@ Database Used: SQLite
 - Edit Task
 - Delete Task
 - Update Status
+
+## Screeshot
+
+![Laravel Task Manager Screenshot](TaskManager/screenshots/task-manager.png)
